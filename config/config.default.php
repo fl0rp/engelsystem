@@ -129,7 +129,7 @@ return [
     ],
 
     // Default theme, 1=style1.css
-    'theme'                   => env('THEME', 1),
+    'theme'                   => env('THEME', 16),
 
     'themes' => [
         16 => [
